@@ -52,7 +52,7 @@
         ]
     },
     "leaderboard": {
-        "heading_1": "Rank",
+        "heading_1": "#Rank",
         "heading_2": "Name",
         "heading_3": "Public Key",
         "heading_4": "Locked",
