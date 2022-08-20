@@ -4,7 +4,9 @@
             {
                 "id": 1,
                 "img": "/img/thumb_3.png",
+                "img_1": "/img/thumb_6.png",
                 "title": "Participate IGO Stake",
+                "title_1": "Farming Stake",
                 "category": "Game",
                 "collapse_link": "#collapseOne",
                 "collapse_id": "collapseOne",
@@ -26,7 +28,9 @@
             {
                 "id": 2,
                 "img": "/img/thumb_4.png",
+                "img_1": "/img/thumb_7.png",
                 "title": "Gaming Stake",
+                "title_1": "Gaming Stake",
                 "category": "Staking",
                 "collapse_link": "#collapseTwo",
                 "collapse_id": "collapseTwo",
